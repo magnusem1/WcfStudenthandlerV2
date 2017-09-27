@@ -19,6 +19,7 @@ namespace StudentClient
             //https://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlcommand(v=vs.110).aspx
 
 
+
             //string link til database
             string conn =
                 "Server=tcp:studentdb.database.windows.net,1433;Initial Catalog=StudentDB;Persist Security Info=False;User ID=magnus;Password=Password1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30";
